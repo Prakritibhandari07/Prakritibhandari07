@@ -1,8 +1,9 @@
 💫 Hi 👋, I'm Prakriti Bhandari
 
-![](https://komarev.com/ghpvc/?username=Prakritibhandari07&label=Profile%20Views&color=blue&style=for-the-badge)
+#![](https://komarev.com/ghpvc/?username=Prakritibhandari07&label=Profile%20Views&color=blue&style=for-the-badge)
 
-![](https://visitor-badge.laobi.icu/badge?page_id=Prakritibhandari07.Prakritibhandari07)
+#//![](https://visitor-badge.laobi.icu/badge?page_id=Prakritibhandari07.Prakritibhandari07)
+
 
 A passionate AI/ML Engineer
 Email Me 👉 ✉️prakritibhandari555@gmail.com For Collaboration/Project or Anything Else. 😊😊
