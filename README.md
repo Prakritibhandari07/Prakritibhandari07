@@ -27,5 +27,6 @@ Email Me 👉 ✉️prakritibhandari555@gmail.com For Collaboration/Project or A
 
 ---
 ![Profile views](https://komarev.com/ghpvc/?username=Prakritibhandari07&color=blueviolet&style=flat)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Prakritibhandari07.Prakritibhandari07)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
