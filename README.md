@@ -1,4 +1,18 @@
-💫 Hi 👋, I'm Prakriti Bhandari
+I’m Prakriti Bhandari, a Computer Science student and aspiring AI/ML Engineer. I specialize in building machine learning applications that actually work in production — not just in theory. My focus is on end-to-end ownership: data preparation, modeling, deployment, testing, and monitoring.
+
+Highlights:
+
+Fraud Detection API — 100% precision, 97.8% ROC-AUC, deployed with FastAPI + Streamlit, Dockerized and cloud-hosted.
+
+Spam Classifier — NLP pipeline with TF-IDF + Naive Bayes, deployed as Streamlit + FastAPI service.
+
+AI Resume Screener — Django app with authentication, persistent prediction history, and a 7-test suite.
+
+MNIST CNN Classifier — 99% test accuracy, deployed as a live digit recognition app.
+
+AI Chatbot Workflow — multi-step agentic workflow with memory using n8n, OpenAI, and Google Gemini.*
+
+Currently interning remotely with FlyRank AI, where I practice structured evaluation discipline and collaborate across time zones. Based in Kathmandu, Nepal — 🌎 open to remote opportunities worldwide.
 
 A passionate AI/ML Engineer
 Email Me 👉 ✉️prakritibhandari555@gmail.com For Collaboration/Project or Anything Else. 😊😊
